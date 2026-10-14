@@ -13,10 +13,11 @@ The profile is stored with AsyncStorage on the device. Use **Log out** to remove
 ## Project contents
 
 - `App.js` â€” app screens, UI, navigation, validation, and local persistence
-- `wireframe/little-lemon-wireframe.svg` â€” exportable wireframe image with Home, Onboarding, and Profile screens
+- `wireframe/little-lemon-wireframe.jpg` â€” wireframe image for the course submission
+- `wireframe/little-lemon-wireframe.svg` â€” editable vector source for the wireframe
 - `app.json` â€” Expo app configuration
 
 ## Submit for peer review
 
-Create a GitHub repository, push this project, and paste that repository URL into the course submission form. Include the wireframe asset in the repository. The course site handles submission and peer assignment; this local project does not have a repository remote configured yet.
+The project is published at [github.com/ShadowChaser/reactnative](https://github.com/ShadowChaser/reactnative). In the course's **My submission** tab, use the title **Little Lemon React Native Capstone** and paste `https://github.com/ShadowChaser/reactnative`. The course site handles the submission and assigns peer reviews after you submit.
 
